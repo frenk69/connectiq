@@ -1,0 +1,1 @@
+{"settings":[{"key":"string1","valueType":"string","defaultValue":"","configTitle":"Aktion1","configPrompt":null,"configError":null,"configType":"alphaNumeric","configReadonly":false,"configRequired":false,"configOptions":null,"configMin":null,"configMax":null,"configMaxLength":null}],"languages":{"valyrian":{"Aktion1":"Halle aufschliessen","AppName":"OlliSchiriApp"}}}

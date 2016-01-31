@@ -1,0 +1,6 @@
+<resources>
+    <string id="AppName">OlliSchiriApp</string>
+
+    <bitmap id="LauncherIcon" filename="images/launcher_icon.png"/>
+    <bitmap id="Olli" filename="images/olli.png" />
+</resources>

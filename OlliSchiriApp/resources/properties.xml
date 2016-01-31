@@ -1,0 +1,13 @@
+<resources>
+	<properties>
+		<property id="string1" type="string"></property>
+	</properties>
+	<strings>
+		<string id="Aktion1">Halle aufschliessen</string>
+	</strings>
+	<settings>
+		<setting propertyKey="string1" title="Aktion1">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+	</settings>
+</resources>
